@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm dev:*)",
+      "Bash(ssh:*)",
+      "Bash(npx localtunnel --port 3000)",
+      "Bash(curl:*)"
+    ]
+  }
+}
